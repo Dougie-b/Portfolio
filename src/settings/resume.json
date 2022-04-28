@@ -1,0 +1,43 @@
+{
+  "basics": {
+    "name": "Dougie Brown",
+    "label": "Junior Full-Stack Developer",
+    "email": "dougie-b@hotmail.com",
+    "phone": "(XXX) XXX-XXXX",
+    "picture": "mt.png",
+    "x_title": "Hello, I'm",
+    "job1": "Junior Full-Stack Developer",
+    "job2": "Developer",
+    "description": "Hoping to find my first role and improve my skillset!",
+    "keywords": "personal,website,portfolio,template,kit,webdev,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+    "url": "",
+    "location": {
+      "address": "XX XXXXXstreet",
+      "postalCode": "XXXXX",
+      "city": "Lodon",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "region": "London"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Dougie-b",
+        "url": "https://www.linkedin.com/in/dougieb/",
+        "x_icon": "fab fa-linkedin-in"
+      },
+      {
+        "network": "GitHub",
+        "username": "Dougie-b",
+        "url": "https://github.com/Dougie-b",
+        "x_icon": "fab fa-github"
+      },
+      {
+        "network": "Discord",
+        "username": "Experimental Dougie#6640",
+        "url": "https://discord.com",
+        "x_icon": "fab fa-discord"
+      }
+    ]
+  }
+}
